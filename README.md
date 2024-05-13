@@ -1,4 +1,4 @@
-message-admin 后端接口
+admin-news 后端接口
 
 
 #  下载依赖
